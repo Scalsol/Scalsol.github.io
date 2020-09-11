@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Yihong Chen is currently a third-year master student in Peking University, supervised by Prof.  [Liwei Wang](http://www.liweiwang-pku.com/). More information will be added= = <span style="color:black;">[Liwei Wang](http://www.liweiwang-pku.com/)</span>
-
+Yihong Chen is currently a third-year master student in Peking University, supervised by Prof.  [Liwei Wang](http://www.liweiwang-pku.com/). More information will be added= =
