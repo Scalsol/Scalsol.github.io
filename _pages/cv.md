@@ -23,9 +23,9 @@ Education
 
 Experience
 ======
-* Research Intern in Microsoft Research Asia (MSRA), 2020.12 - 2021.12 
-
+* Research Intern in Microsoft Research Asia (MSRA), 2020.12 - 2021.12   
   <strong>Mentor</strong>: Han Hu  
+
 Honors & Awards
 ======
 
