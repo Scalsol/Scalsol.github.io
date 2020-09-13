@@ -23,10 +23,10 @@ News
 Selected Publications ([Full List](https://scalsol.github.io/publications))
 ======
 
-1. <strong>RepPoints V2: Verification Meets Regression for Object Detection</strong>
-   <strong>Yihong Chen</strong>, Zheng Zhang, Yue Cao, Liwei Wang, Stephen Lin, Han Hu
+1. <strong>RepPoints V2: Verification Meets Regression for Object Detection</strong>  
+   <strong>Yihong Chen</strong>, Zheng Zhang, Yue Cao, Liwei Wang, Stephen Lin, Han Hu  
    <i>Arxiv 2020</i> [[paper](https://arxiv.org/abs/2007.08508)] [[code](https://github.com/Scalsol/RepPointsV2)]
 
-2. <strong>Memory Enhanced Global-Local Aggregation for Video Object Detection</strong>
-   <strong>Yihong Chen</strong>, Yue Cao, Han Hu, Liwei Wang
+2. <strong>Memory Enhanced Global-Local Aggregation for Video Object Detection</strong>  
+   <strong>Yihong Chen</strong>, Yue Cao, Han Hu, Liwei Wang  
    <i>IEEE Conference on Computer Vision and Pattern Recognition ([<strong>CVPR</strong>](http://cvpr2020.thecvf.com/))</i>, 2020 [[paper](https://arxiv.org/abs/2003.12063)] [[code](https://github.com/Scalsol/mega.pytorch)]
