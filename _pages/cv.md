@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my detailed information in the pdf version of my CV. [[Here!](https://scalsol.github.io/files/cv.pdf)].
+You can also find more detailed information in the pdf version of my CV. [[Here!](https://scalsol.github.io/files/cv.pdf)].
 
 Education
 ======
