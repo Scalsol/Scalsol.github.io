@@ -15,3 +15,10 @@ Under review, 2020
 [[paper](https://arxiv.org/abs/2007.08508)] [[code](https://github.com/Scalsol/RepPointsV2)]  
 <br/><img src='/images/reppointsv2.png'>  
 <font size="4" color="gray">In this</font>
+
+<i><strong><font size="5" >Memory Enhanced Global-Local Aggregation for Video Object Detection</font></strong></i>  
+<strong>Yihong Chen</strong>, Yue Cao, Han Hu, Liwei Wang  
+<i>IEEE Conference on Computer Vision and Pattern Recognition ([<strong>CVPR</strong>](http://cvpr2020.thecvf.com/))</i>, 2020  
+ [[paper](https://arxiv.org/abs/2003.12063)] [[code](https://github.com/Scalsol/mega.pytorch)]  
+<br/><img src='/images/mega.png'>  
+<font size="4" color="gray">In this</font>
