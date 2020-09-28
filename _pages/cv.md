@@ -43,3 +43,4 @@ Honors & Awards
 - National Scholarship, Ministry of Education of China, 2016 
 - Silver Medal, ACM-ICPC Asia Regional, 2017  
 - summa cum laude, Xiamen University, 2018  
+- National Scholarship, Ministry of Education of China, 2020
