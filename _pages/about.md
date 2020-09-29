@@ -27,7 +27,7 @@ Selected Publications ([Full List](https://scalsol.github.io/publications))
 
 1. <strong>RepPoints V2: Verification Meets Regression for Object Detection</strong>  
    <strong>Yihong Chen</strong>, Zheng Zhang, Yue Cao, Liwei Wang, Stephen Lin, Han Hu  
-   <i>Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)), 2020</i> [[paper](https://arxiv.org/abs/2007.08508)] [[code](https://github.com/Scalsol/RepPointsV2)]
+   <i>Neural Information Processing Systems (<strong>[NeurIPS](https://neurips.cc/)</strong>), 2020</i> [[paper](https://arxiv.org/abs/2007.08508)] [[code](https://github.com/Scalsol/RepPointsV2)]
 
 2. <strong>Memory Enhanced Global-Local Aggregation for Video Object Detection</strong>  
    <strong>Yihong Chen</strong>, Yue Cao, Han Hu, Liwei Wang  
