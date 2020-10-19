@@ -14,25 +14,12 @@ You can also find more detailed information in the pdf version of my CV. [[Here!
 Education
 ======
 * B.S., Statistics, School of Mathematical Sciences, Xiamen University, 2014 - 2018
-  * <strong>Selected Courses (4.0/4.0)</strong>
-    
-    * Advanced Algebra
-    * Abstract Algebra
-    * Probability Theory
-    * Ordinary Differential Equations
-    * Partial Differential Equations
-    * Complex Analysis
-    * Real Analysis
-    * Stochastic Process
-    * Time Series
-    * Number Theory
-    * ...
 * Visiting Student, Cambridge University, 2016.8
 * M.S. in Computer Science, Peking University, 2018 - 2021 (expected)
 
 Experience
 ======
-* Research Intern in Microsoft Research Asia (MSRA), 2020.12 - 2021.12   
+* Research Intern in Microsoft Research Asia (MSRA), 2019.12 - 2020.12   
   <strong>Mentor</strong>: Han Hu  
 
 Honors & Awards
