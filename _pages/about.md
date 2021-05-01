@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a third-year master student in the Center of Data Science, AAIS, Peking University, supervised by Prof.  [Liwei Wang](http://www.liweiwang-pku.com/). I am also a research intern of Visual Computing Group in Microsoft Research Asia, supervised by Dr. [Han Hu](https://ancientmooner.github.io/) and working closely with [Yue Cao](http://yue-cao.me/), [Zheng Zhang](https://stupidzz.github.io/). Prior to that, I received my B.S. degree in Mathematics from Xiamen University.
+<strong>I am an in-coming Ph.D. student at ETH Zurich.</strong> Currently I am a third-year master student in the Center of Data Science, AAIS, Peking University, supervised by Prof.  [Liwei Wang](http://www.liweiwang-pku.com/). I am also a research intern of Visual Computing Group in Microsoft Research Asia, supervised by Dr. [Han Hu](https://ancientmooner.github.io/) and working closely with [Yue Cao](http://yue-cao.me/), [Zheng Zhang](https://stupidzz.github.io/). Prior to that, I received my B.S. degree in Mathematics from Xiamen University.
 
 My primary interests lie in computer vision and machine learning problems in general. I am particularly interested in tasks that are fundamental (object detection, pre-training, etc.) and practical (e.g. video understanding). Besides, I am always a fan of things that are creative.
 
 [[Curriculum Vitae](https://scalsol.github.io/files/cv.pdf)]
-
-<strong>I will apply for a PhD position starting from 2021 fall. Please don't hesitate to contact me if you are interested! </strong>
 
 News
 ======
